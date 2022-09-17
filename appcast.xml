@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <!--https://play.google.com/store/apps/details?id=com.interexpress.imot-->
+    <channel>
+        <!--<title>iMOT</title>
+        <item>
+            <title>Version 1.0.17</title>
+            <description>ปรับปรุงระบบ แก้ไข: กดดูรายการใบงานไม่ได้</description>
+            <pubDate>20/08/2022</pubDate>
+            <enclosure url="https://api-mobile.interexpress.co.th/imot-api/v2/systems/version/imot/apk/app-prod-release.apk" sparkle:version="1.0.17" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
+            <sparkle:maximumSystemVersion>1.0.17</sparkle:maximumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.0.19</title>
+            <description>ปรับปรุงระบบ แก้ไข: กดไม่เห็นรายการใบสั่งงาน ปรับปรุงการแจ้งเตือน **</description>
+            <pubDate>26/08/2022</pubDate>
+            <enclosure url="https://api-mobile.interexpress.co.th/imot-api/v2/systems/version/imot/apk/app-prod-release.apk" sparkle:version="1.0.19" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <sparkle:minimumSystemVersion>1.0.17</sparkle:minimumSystemVersion>
+            <sparkle:maximumSystemVersion>1.0.18</sparkle:maximumSystemVersion>
+        </item>
+        <item>
+            <title>Version 1.0.21</title>
+            <description>ปรับปรุงระบบ แก้ไข: กดไม่เห็นรายการใบสั่งงาน / ปรับปรุงจุดส่งให้กดเวลาถึงอย่างเดียว ปรับปรุงการแจ้งเตือน **</description>
+            <pubDate>01/09/2022</pubDate>
+            <enclosure url="https://api-mobile.interexpress.co.th/imot-api/v2/systems/version/imot/apk/app-prod-release-1.0.21.apk" sparkle:version="1.0.21" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>1.0.17</sparkle:minimumSystemVersion>
+            <sparkle:maximumSystemVersion>1.0.21</sparkle:maximumSystemVersion>
+        </item>-->
+        <item>
+            <title>Version 1.0.23</title>
+            <description>ปรับปรุงระบบ แก้ไข: ให้ระบบทำงานดีขึ้น แก้ให้จุดส่งของงานเหมาคันไม่แสดง</description>
+            <pubDate>15/09/2022</pubDate>
+            <enclosure url="https://api-mobile.interexpress.co.th/imot-api/v2/systems/version/imot/apk/app-prod-release-1.0.23.apk" sparkle:version="1.0.23" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+            <sparkle:minimumSystemVersion>1.0.17</sparkle:minimumSystemVersion>
+            <sparkle:maximumSystemVersion>1.0.23</sparkle:maximumSystemVersion>
+        </item>
+        <!--<title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>desc</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>-->
+        <!-- The best chosen release -->
+        <!--<item>
+        <title>Version 3.0</title>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+        <sparkle:deltas>
+            <enclosure url="http://localhost:1337/3.0_from_2.0.patch"
+            sparkle:version="3.0"
+            sparkle:deltaFrom="2.0"
+            length="1235"
+            type="application/octet-stream"
+            sparkle:edSignature="..." />
+            
+            <enclosure url="http://localhost:1337/3.0_from_1.0.patch"
+            sparkle:version="3.0"
+            sparkle:deltaFrom="1.0"
+            length="1485"
+            type="application/octet-stream"
+            sparkle:edSignature="..." />
+        </sparkle:deltas>
+    </item>-->
+        <!-- A release testing minimumSystemVersion -->
+        <!--<item>
+        <title>Version 4.0</title>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>-->
+        <!-- A joke release testing maximumSystemVersion -->
+        <!--<item>
+        <title>Version 5.0</title>
+        <sparkle:version>5.0</sparkle:version>
+        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+    </item>-->
+    </channel>
+</rss>
