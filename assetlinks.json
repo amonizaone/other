@@ -1,4 +1,9 @@
 [
+  "source": {
+        "web": {
+          "site": "https://staging.app.washxpressth.com"
+        }
+      },
   {
     "relation": [
       "delegate_permission/common.handle_all_urls"
