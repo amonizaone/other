@@ -1,0 +1,20 @@
+[
+ 
+  {
+     "source": {
+        "web": {
+          "site": "https://staging.app.washxpressth.com"
+        }
+     },
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.laundryyou.washxpress.dev",
+      "sha256_cert_fingerprints": [
+        "13:64:51:C2:09:06:47:8F:C1:E7:29:2A:E2:66:6B:83:DC:69:27:A2:0E:31:D4:03:B8:3D:BE:BE:8E:0D:F4:BB"
+      ]
+    }
+  }
+]
